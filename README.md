@@ -1,3 +1,3 @@
-### Youtube
+## Youtube
 
-##### Sapientia a Dei : 통계
+##### Sapientia a Dei : 통계 강의
